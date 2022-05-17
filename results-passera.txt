@@ -23,3 +23,16 @@ SCOTUS
     nlpaueb/legal-bert-base-uncased: MICRO-F1: nan	 ± nan	MACRO-F1: nan	 ± nan	 | MICRO-F1: nan	MACRO-F1: nan	
             zlucia/custom-legalbert: MICRO-F1: nan	 ± nan	MACRO-F1: nan	 ± nan	 | MICRO-F1: nan	MACRO-F1: nan	
                       roberta-large: MICRO-F1: nan	 ± nan	MACRO-F1: nan	 ± nan	 | MICRO-F1: nan	MACRO-F1: nan	
+
+
+ECTHR
+                                    VALIDATION                                      | TEST
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                  bert-base-uncased: MICRO-F1: 56.1	 ± 0.0	MACRO-F1: 40.8	 ± 0.0	 | MICRO-F1: 54.4	MACRO-F1: 40.6	
+                       roberta-base: MICRO-F1: nan	 ± nan	MACRO-F1: nan	 ± nan	 | MICRO-F1: nan	MACRO-F1: nan	
+             microsoft/deberta-base: MICRO-F1: nan	 ± nan	MACRO-F1: nan	 ± nan	 | MICRO-F1: nan	MACRO-F1: nan	
+       allenai/longformer-base-4096: MICRO-F1: nan	 ± nan	MACRO-F1: nan	 ± nan	 | MICRO-F1: nan	MACRO-F1: nan	
+        google/bigbird-roberta-base: MICRO-F1: nan	 ± nan	MACRO-F1: nan	 ± nan	 | MICRO-F1: nan	MACRO-F1: nan
+   nlpaueb/legal-bert-base-uncased: MICRO-F1: 61.6	 ± 0.0	MACRO-F1: 51.5	 ± 0.0	 | MICRO-F1: 59.4	MACRO-F1: 48.0		
+            zlucia/custom-legalbert: MICRO-F1: nan	 ± nan	MACRO-F1: nan	 ± nan	 | MICRO-F1: nan	MACRO-F1: nan	
+                      roberta-large: MICRO-F1: nan	 ± nan	MACRO-F1: nan	 ± nan	 | MICRO-F1: nan	MACRO-F1: nan	
