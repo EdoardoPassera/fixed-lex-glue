@@ -28,7 +28,7 @@ SCOTUS
 ECTHR (Task A) (--max_train_samples 9000)
                                     VALIDATION                                      	 | TEST
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                  bert-base-uncased: MICRO-F1: 56.1	 ± 0.0	MACRO-F1: 40.8	 ± 0.0	 | MICRO-F1: 54.4	MACRO-F1: 40.6	
+                  bert-base-uncased: MICRO-F1: 59.6	 ± 0.0	MACRO-F1: 48.2	 ± 0.0	 | MICRO-F1: 55.8	MACRO-F1: 44.2	
                        roberta-base: MICRO-F1: 63.6	 ± 0.0	MACRO-F1: 56.6	 ± 0.0	 | MICRO-F1: 60.4	MACRO-F1: 50.2
              microsoft/deberta-base: MICRO-F1: 64.4	 ± 0.0	MACRO-F1: 57.9	 ± 0.0	 | MICRO-F1: 61.9	MACRO-F1: 53.4	
     nlpaueb/legal-bert-base-uncased: MICRO-F1: 61.6	 ± 0.0	MACRO-F1: 51.5	 ± 0.0	 | MICRO-F1: 59.4	MACRO-F1: 48.0	
