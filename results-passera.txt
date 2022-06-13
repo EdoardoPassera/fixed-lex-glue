@@ -25,7 +25,7 @@ SCOTUS
                       roberta-large: MICRO-F1: nan	 ± nan	MACRO-F1: nan	 ± nan	 | MICRO-F1: nan	MACRO-F1: nan	
 
 
-ECTHR (Task A) (--max_train_samples 6000)
+ECTHR (Task A) (--max_train_samples 9000)
                                     VALIDATION                                      	 | TEST
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                   bert-base-uncased: MICRO-F1: 56.1	 ± 0.0	MACRO-F1: 40.8	 ± 0.0	 | MICRO-F1: 54.4	MACRO-F1: 40.6	
